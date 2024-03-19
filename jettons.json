@@ -1,5 +1,20 @@
 [
  {
+  "address": "0:9d5fd8f163e6a2de1e63536a39ec46d1b968327926695da45ba4569bbd24fbcd",
+  "description": "Roses are red and Violets are blue!",
+  "image": "https://github.com/ApoFemia/Rose/blob/main/Rose11.png?raw=true",
+  "name": "Rose coin",
+  "social": [
+   "https://t.me/RoseC0in",
+   
+  ],
+  "symbol": "Rose",
+  "websites": [
+   "https://t.me/RoseC0in"
+  ]
+ },
+ 
+ {
   "address": "EQBT2Ee4Lx5w9uI7oMly5upXNs3ABWL_Fwk1uiM74gZCGaYt",
   "description": "Operating startup of the mining company",
   "image": "https://i.postimg.cc/BZMY4sKN/photo-2023-12-08-12-58-58-1-1.png",
